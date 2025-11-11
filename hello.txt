@@ -4,3 +4,4 @@ diff를 해보자
 중간 2줄 삭제하고, 이 줄 추가
 hello vs code
 vs code로 2번째 변경
+vs code로 3번째 변경
