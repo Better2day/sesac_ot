@@ -1,5 +1,4 @@
 Hello Git
 다시!
-SSH Cloning completed
-새로운 코드 추가
 diff를 해보자
+중간 2줄 삭제하고, 이 줄 추가
