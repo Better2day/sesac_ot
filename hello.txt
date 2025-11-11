@@ -2,3 +2,4 @@ Hello Git
 다시!
 diff를 해보자
 중간 2줄 삭제하고, 이 줄 추가
+hello vs code
